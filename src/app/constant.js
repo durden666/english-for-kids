@@ -1,0 +1,7 @@
+const MAIN_PAGE_ORDER = '1';
+const STATE_PAGE_ORDER = '10';
+
+export {
+   MAIN_PAGE_ORDER,
+   STATE_PAGE_ORDER
+};
